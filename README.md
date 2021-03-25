@@ -1,1 +1,1 @@
-# voice_assistant
+# Amigo voice_assistant (using python)
